@@ -1,0 +1,30 @@
+{
+  "name": "bahamut-quiz-collecter",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "An auto bot to collect quizs from Bahamut.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moontai0724/bahamut-quiz-collecter.git"
+  },
+  "keywords": [
+    "bot",
+    "bahamut",
+    "crawler",
+    "collect",
+    "quiz"
+  ],
+  "author": "moontai0724",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moontai0724/bahamut-quiz-collecter/issues"
+  },
+  "homepage": "https://github.com/moontai0724/bahamut-quiz-collecter#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
